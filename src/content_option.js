@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Isha Sharma",
     animated: {
-        first: "I have worked in MNCs as research/data analyst",
+        first: "I have worked in MNCs as research/data analyst for over 3 years.",
         second: "But I have always wanted to move into a more technical field",
         third: "So I finally took this hard step to transition from data to DevOps",
     },
