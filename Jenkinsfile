@@ -6,7 +6,7 @@ pipeline {
         SSH_USER = 'ubuntu'                        // SSH username
         SSH_HOST = '13.203.74.135'                // Remote server IP
         DEPLOY_PATH = '/var/www/html'              // Deployment directory
-        BRANCH = 'main'                            // Branch to deploy
+        BRANCH = 'master'                            // Branch to deploy
         REPO_URL = 'https://github.com/ishs-25/react-portfolio' // Public repo URL
     }
 
